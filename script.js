@@ -10,9 +10,16 @@ fetch('data/arvicolidi.json')
         const card = document.createElement('div');
         card.className = 'card';
 
-        const img = document.createElement('img');
-        img.src = entry.Image;
-        img.alt = entry.Species;
+       const link = document.createElement('a');
+link.href = entry.Image;
+link.target = '_blank';
+
+const img = document.createElement('img');
+img.src = entry.Image;
+img.alt = entry.Species;
+
+link.appendChild(img);
+
 
         const info = document.createElement('div');
         info.className = 'info';
@@ -22,7 +29,7 @@ fetch('data/arvicolidi.json')
           <strong>Period:</strong> ${entry.Period}
         `;
 
-        card.appendChild(img);
+       card.appendChild(link);
         card.appendChild(info);
         results.appendChild(card);
       });
