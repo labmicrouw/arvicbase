@@ -26,6 +26,7 @@ fetch('data/arvicolidi2.json')
         info.innerHTML = `
           <strong>Species:</strong> ${entry.Species}<br>
           <strong>Site:</strong> ${entry.Site}<br>
+          <strong>Layer:</strong> ${entry.Layer}<br>
           <strong>Country:</strong> ${entry.Country}<br>
           <strong>Period:</strong> ${entry.Period}<br>
           <strong>Publication:</strong> ${entry.Pubblication ? `<a href="${entry.Pubblication}" target="_blank">Link</a>` : 'N/A'}
