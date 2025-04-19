@@ -8,7 +8,16 @@
 </head>
 <body>
   <h1>Vole Tooth Archive</h1>
-  <input type="text" id="searchBar" placeholder="Search for a species..." />
+  <div id="search-controls">
+  <input type="text" id="searchBar" placeholder="Search..." />
+  <select id="searchField">
+    <option value="Species">Species</option>
+    <option value="Site">Site</option>
+    <option value="Country">Country</option>
+    <option value="Period">Period</option>
+  </select>
+</div>
+
   <div id="results"></div>
 
   <script src="script.js"></script>
