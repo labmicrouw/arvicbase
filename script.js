@@ -28,7 +28,7 @@ fetch('data/arvicolidi2.json')
           <strong>Site:</strong> ${entry.Site}<br>
           <strong>Country:</strong> ${entry.Country}<br>
           <strong>Period:</strong> ${entry.Period}<br>
-          <strong>Pubblication:</strong> ${entry.Pubblication}
+          <strong>Publication:</strong> ${entry.Pubblication ? `<a href="${entry.Pubblication}" target="_blank">Link</a>` : 'N/A'}
         `;
 
         card.appendChild(link);
