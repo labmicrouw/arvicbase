@@ -1,7 +1,8 @@
-fetch('data/arvicolidi.json')
+fetch('data/arvicolidi_extended.json')
   .then(response => response.json())
   .then(data => {
     const searchBar = document.getElementById('searchBar');
+    const searchField = document.getElementById('searchField');
     const results = document.getElementById('results');
 
     function renderResults(filteredData) {
@@ -35,17 +36,19 @@ fetch('data/arvicolidi.json')
       });
     }
 
-    searchBar.addEventListener('input', () => {
+    function filterData() {
       const term = searchBar.value.toLowerCase();
+      const field = searchField.value;
       const filtered = data.filter(entry =>
-        entry.Species.toLowerCase().includes(term) ||
-        entry.Site.toLowerCase().includes(term) ||
-        entry.Period.toLowerCase().includes(term) ||
-        entry.Country.toLowerCase().includes(term)
+        entry[field].toLowerCase().includes(term)
       );
       renderResults(filtered);
-    });
+    }
+
+    searchBar.addEventListener('input', filterData);
+    searchField.addEventListener('change', filterData);
 
     // Initial load
     renderResults(data);
   });
+
