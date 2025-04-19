@@ -1,4 +1,4 @@
-fetch('data/arvicolidi.json')
+fetch('data/arvicolidi2.json')
   .then(response => response.json())
   .then(data => {
     const searchBar = document.getElementById('searchBar');
