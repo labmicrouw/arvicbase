@@ -1,0 +1,1002 @@
+[
+  {
+    "Code": "MVWG_01",
+    "Site": "Grotta della Ferrovia",
+    "Country": "Italy",
+    "Layer": "",
+    "Period": "MIS 2",
+    "Species": "Microtus arvalis",
+    "Pubblication": "https://www.sciencedirect.com/science/article/pii/S0277379123001439",
+    "Image": "images/MVWG_01.jpg"
+  },
+  {
+    "Code": "MVWG_02",
+    "Site": "Cudò",
+    "Country": "Spain",
+    "Layer": 107,
+    "Period": "MIS 3",
+    "Species": "Chionomys nivalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_02.jpg"
+  },
+  {
+    "Code": "MVWG_03",
+    "Site": "Hohle Fels",
+    "Country": "Germany",
+    "Layer": "GH15",
+    "Period": "MIS 3",
+    "Species": "Chionomys nivalis",
+    "Pubblication": "https://link.springer.com/article/10.1007/s12520-022-01568-5",
+    "Image": "images/MVWG_03.jpg"
+  },
+  {
+    "Code": "MVWG_04",
+    "Site": "Obłazowa WE",
+    "Country": "Poland",
+    "Layer": "",
+    "Period": "",
+    "Species": "Stenocranius anglicus",
+    "Pubblication": "",
+    "Image": "images/MVWG_04.jpg"
+  },
+  {
+    "Code": "MVWG_05",
+    "Site": "Łabajowa Cave",
+    "Country": "Poland",
+    "Layer": "H9",
+    "Period": "MIS 5-3",
+    "Species": "Microtus agrestis",
+    "Pubblication": "",
+    "Image": "images/MVWG_05.jpg"
+  },
+  {
+    "Code": "MVWG_06",
+    "Site": "Grotta della Ferrovia",
+    "Country": "Italy",
+    "Layer": "",
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "https://www.sciencedirect.com/science/article/pii/S0277379123001439",
+    "Image": "images/MVWG_06.jpg"
+  },
+  {
+    "Code": "MVWG_07",
+    "Site": "Hohle Fels",
+    "Country": "Germany",
+    "Layer": "GH15",
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_07.jpg"
+  },
+  {
+    "Code": "MVWG_08",
+    "Site": "Obłazowa WE",
+    "Country": "Poland",
+    "Layer": "",
+    "Period": "",
+    "Species": "Alexandromys oeconomus",
+    "Pubblication": "",
+    "Image": "images/MVWG_08.jpg"
+  },
+  {
+    "Code": "MVWG_09",
+    "Site": "Hohle Fels",
+    "Country": "Germany",
+    "Layer": "GH15",
+    "Period": "",
+    "Species": "Alexandromys oeconomus",
+    "Pubblication": "",
+    "Image": "images/MVWG_09.jpg"
+  },
+  {
+    "Code": "MVWG_10",
+    "Site": "Cudò",
+    "Country": "Spain",
+    "Layer": 107,
+    "Period": "",
+    "Species": "Chionomys nivalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_10.jpg"
+  },
+  {
+    "Code": "MVWG_11",
+    "Site": "Grotta della Ferrovia",
+    "Country": "Italy",
+    "Layer": "",
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "https://www.sciencedirect.com/science/article/pii/S0277379123001439",
+    "Image": "images/MVWG_11.jpg"
+  },
+  {
+    "Code": "MVWG_12",
+    "Site": "Obłazowa WE",
+    "Country": "Poland",
+    "Layer": "",
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_12.jpg"
+  },
+  {
+    "Code": "MVWG_13",
+    "Site": "Łabajowa Cave",
+    "Country": "Poland",
+    "Layer": "H3+H4",
+    "Period": "MIS 2",
+    "Species": "Alexandromys oeconomus",
+    "Pubblication": "",
+    "Image": "images/MVWG_13.jpg"
+  },
+  {
+    "Code": "MVWG_14",
+    "Site": "Hohle Fels",
+    "Country": "Germany",
+    "Layer": "GH15",
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_14.jpg"
+  },
+  {
+    "Code": "MVWG_15",
+    "Site": "Cudò",
+    "Country": "Spain",
+    "Layer": 107,
+    "Period": "",
+    "Species": "Chionomys nivalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_15.jpg"
+  },
+  {
+    "Code": "MVWG_16",
+    "Site": "Obłazowa WE",
+    "Country": "Poland",
+    "Layer": "",
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_16.jpg"
+  },
+  {
+    "Code": "MVWG_17",
+    "Site": "Grotta della Ferrovia",
+    "Country": "Italy",
+    "Layer": "",
+    "Period": "",
+    "Species": "Chionomys nivalis",
+    "Pubblication": "https://www.sciencedirect.com/science/article/pii/S0277379123001439",
+    "Image": "images/MVWG_17.jpg"
+  },
+  {
+    "Code": "MVWG_18",
+    "Site": "Łabajowa Cave",
+    "Country": "Poland",
+    "Layer": "H4",
+    "Period": "MIS 2",
+    "Species": "Stenocranius anglicus",
+    "Pubblication": "",
+    "Image": "images/MVWG_18.jpg"
+  },
+  {
+    "Code": "MVWG_19",
+    "Site": "Hohle Fels",
+    "Country": "Germany",
+    "Layer": "GH15",
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_19.jpg"
+  },
+  {
+    "Code": "MVWG_20",
+    "Site": "Cudò",
+    "Country": "Spain",
+    "Layer": 107,
+    "Period": "",
+    "Species": "Chionomys nivalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_20.jpg"
+  },
+  {
+    "Code": "MVWG_21",
+    "Site": "Grotta della Ferrovia",
+    "Country": "Italy",
+    "Layer": "",
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "https://www.sciencedirect.com/science/article/pii/S0277379123001439",
+    "Image": "images/MVWG_21.jpg"
+  },
+  {
+    "Code": "MVWG_22",
+    "Site": "Obłazowa WE",
+    "Country": "Poland",
+    "Layer": "",
+    "Period": "",
+    "Species": "Stenocranius anglicus",
+    "Pubblication": "",
+    "Image": "images/MVWG_22.jpg"
+  },
+  {
+    "Code": "MVWG_23",
+    "Site": "Hohle Fels",
+    "Country": "Germany",
+    "Layer": "GH15",
+    "Period": "",
+    "Species": "Stenocranius anglicus",
+    "Pubblication": "",
+    "Image": "images/MVWG_23.jpg"
+  },
+  {
+    "Code": "MVWG_24",
+    "Site": "Łabajowa Cave",
+    "Country": "Poland",
+    "Layer": "H4",
+    "Period": "MIS 2",
+    "Species": "Stenocranius anglicus",
+    "Pubblication": "",
+    "Image": "images/MVWG_24.jpg"
+  },
+  {
+    "Code": "MVWG_25",
+    "Site": "Obłazowa WE",
+    "Country": "Poland",
+    "Layer": "",
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_25.jpg"
+  },
+  {
+    "Code": "MVWG_26",
+    "Site": "Grotta della Ferrovia",
+    "Country": "Italy",
+    "Layer": "",
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "https://www.sciencedirect.com/science/article/pii/S0277379123001439",
+    "Image": "images/MVWG_26.jpg"
+  },
+  {
+    "Code": "MVWG_27",
+    "Site": "Cudò",
+    "Country": "Spain",
+    "Layer": 107,
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_27.jpg"
+  },
+  {
+    "Code": "MVWG_28",
+    "Site": "Hohle Fels",
+    "Country": "Germany",
+    "Layer": "GH15",
+    "Period": "",
+    "Species": "Stenocranius anglicus",
+    "Pubblication": "",
+    "Image": "images/MVWG_28.jpg"
+  },
+  {
+    "Code": "MVWG_29",
+    "Site": "Cudò",
+    "Country": "Spain",
+    "Layer": 107,
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_29.jpg"
+  },
+  {
+    "Code": "MVWG_30",
+    "Site": "Grotta della Ferrovia",
+    "Country": "Italy",
+    "Layer": "",
+    "Period": "",
+    "Species": "Chionomys nivalis",
+    "Pubblication": "https://www.sciencedirect.com/science/article/pii/S0277379123001439",
+    "Image": "images/MVWG_30.jpg"
+  },
+  {
+    "Code": "MVWG_31",
+    "Site": "Cudò",
+    "Country": "Spain",
+    "Layer": 107,
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_31.jpg"
+  },
+  {
+    "Code": "MVWG_32",
+    "Site": "Obłazowa WE",
+    "Country": "Poland",
+    "Layer": "",
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_32.jpg"
+  },
+  {
+    "Code": "MVWG_33",
+    "Site": "Grotta della Ferrovia",
+    "Country": "Italy",
+    "Layer": "",
+    "Period": "",
+    "Species": "XXX",
+    "Pubblication": "https://www.sciencedirect.com/science/article/pii/S0277379123001439",
+    "Image": "images/MVWG_33.jpg"
+  },
+  {
+    "Code": "MVWG_34",
+    "Site": "Obłazowa WE",
+    "Country": "Poland",
+    "Layer": "",
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_34.jpg"
+  },
+  {
+    "Code": "MVWG_35",
+    "Site": "Łabajowa Cave",
+    "Country": "Poland",
+    "Layer": "H4",
+    "Period": "MIS 2",
+    "Species": "Microtus agrestis",
+    "Pubblication": "",
+    "Image": "images/MVWG_35.jpg"
+  },
+  {
+    "Code": "MVWG_36",
+    "Site": "Hohle Fels",
+    "Country": "Germany",
+    "Layer": "GH15",
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_36.jpg"
+  },
+  {
+    "Code": "MVWG_37",
+    "Site": "Cudò",
+    "Country": "Spain",
+    "Layer": 107,
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_37.jpg"
+  },
+  {
+    "Code": "MVWG_38",
+    "Site": "Obłazowa WE",
+    "Country": "Poland",
+    "Layer": "",
+    "Period": "",
+    "Species": "Stenocranius anglicus",
+    "Pubblication": "",
+    "Image": "images/MVWG_38.jpg"
+  },
+  {
+    "Code": "MVWG_39",
+    "Site": "Łabajowa Cave",
+    "Country": "Poland",
+    "Layer": "H3",
+    "Period": "MIS 2",
+    "Species": "Stenocranius anglicus",
+    "Pubblication": "",
+    "Image": "images/MVWG_39.jpg"
+  },
+  {
+    "Code": "MVWG_40",
+    "Site": "Hohle Fels",
+    "Country": "Germany",
+    "Layer": "GH15",
+    "Period": "",
+    "Species": "A.oeconomus",
+    "Pubblication": "",
+    "Image": "images/MVWG_40.jpg"
+  },
+  {
+    "Code": "MVWG_41",
+    "Site": "Grotta della Ferrovia",
+    "Country": "Italy",
+    "Layer": "",
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "https://www.sciencedirect.com/science/article/pii/S0277379123001439",
+    "Image": "images/MVWG_41.jpg"
+  },
+  {
+    "Code": "MVWG_42",
+    "Site": "Cudò",
+    "Country": "Spain",
+    "Layer": 107,
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_42.jpg"
+  },
+  {
+    "Code": "MVWG_43",
+    "Site": "Obłazowa WE",
+    "Country": "Poland",
+    "Layer": "",
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_43.jpg"
+  },
+  {
+    "Code": "MVWG_44",
+    "Site": "Grotta della Ferrovia",
+    "Country": "Italy",
+    "Layer": "",
+    "Period": "",
+    "Species": "Chionomys nivalis",
+    "Pubblication": "https://www.sciencedirect.com/science/article/pii/S0277379123001439",
+    "Image": "images/MVWG_44.jpg"
+  },
+  {
+    "Code": "MVWG_45",
+    "Site": "Łabajowa Cave",
+    "Country": "Poland",
+    "Layer": "H4",
+    "Period": "MIS 2",
+    "Species": "Stenocranius anglicus",
+    "Pubblication": "",
+    "Image": "images/MVWG_45.jpg"
+  },
+  {
+    "Code": "MVWG_46",
+    "Site": "Obłazowa WE",
+    "Country": "Poland",
+    "Layer": "",
+    "Period": "",
+    "Species": "Stenocranius anglicus",
+    "Pubblication": "",
+    "Image": "images/MVWG_46.jpg"
+  },
+  {
+    "Code": "MVWG_47",
+    "Site": "Cudò",
+    "Country": "Spain",
+    "Layer": 107,
+    "Period": "",
+    "Species": "Microtus arvalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_47.jpg"
+  },
+  {
+    "Code": "MVWG_48",
+    "Site": "Łabajowa Cave",
+    "Country": "Poland",
+    "Layer": "H4",
+    "Period": "MIS 2",
+    "Species": "Alexandromys oeconomus",
+    "Pubblication": "",
+    "Image": "images/MVWG_48.jpg"
+  },
+  {
+    "Code": "MVWG_49",
+    "Site": "Hohle Fels",
+    "Country": "Germany",
+    "Layer": "GH15",
+    "Period": "",
+    "Species": "Chionomys nivalis",
+    "Pubblication": "",
+    "Image": "images/MVWG_49.jpg"
+  },
+  {
+    "Code": "MVWG_50",
+    "Site": "Łabajowa Cave",
+    "Country": "Poland",
+    "Layer": "H4",
+    "Period": "MIS 2",
+    "Species": "Stenocranius anglicus",
+    "Pubblication": "",
+    "Image": "images/MVWG_50.jpg"
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  },
+  {
+    "Code": "",
+    "Site": "",
+    "Country": "",
+    "Layer": "",
+    "Period": "",
+    "Species": "",
+    "Pubblication": "",
+    "Image": ""
+  }
+]
