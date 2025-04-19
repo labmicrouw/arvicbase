@@ -4,20 +4,20 @@
     "Site":"Grotta della Ferrovia",
     "Country":"Italy",
     "Period":"MIS 2",
-    "Image":"images\/MVWG_01.jpg"
+    "Image":"images/MVWG_01.jpg"
   },
   {
     "Species":"Chionomys nivalis",
     "Site":"Cud\u00f2",
     "Country":"Spain",
     "Period":"MIS 3",
-    "Image":"images\/MVWG_02.jpg"
+    "Image":"images/MVWG_02.jpg"
   },
   {
     "Species":"Chionomys nivalis",
     "Site":"Hohle Fels",
     "Country":"Germany",
     "Period":"MIS 3",
-    "Image":"images\/MVWG_03.jpg"
+    "Image":"images/MVWG_03.jpg"
   }
 ]
